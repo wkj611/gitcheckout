@@ -3,3 +3,4 @@ second
 stash v0
 first in test
 add test 2 on test branch
+bug moved
